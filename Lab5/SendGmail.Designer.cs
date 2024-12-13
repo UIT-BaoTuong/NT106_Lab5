@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SendGmail));
             button_Send = new Button();
             label4 = new Label();
             label5 = new Label();
@@ -39,11 +40,13 @@
             textBox_ToEmail = new TextBox();
             textBox_FromEmail = new TextBox();
             richTextBox_Body = new RichTextBox();
+            button_attachFile = new Button();
             SuspendLayout();
             // 
             // button_Send
             // 
-            button_Send.Location = new Point(569, 57);
+            button_Send.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button_Send.Location = new Point(669, 16);
             button_Send.Name = "button_Send";
             button_Send.Size = new Size(119, 51);
             button_Send.TabIndex = 14;
@@ -54,7 +57,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(493, 19);
+            label4.Location = new Point(346, 19);
             label4.Name = "label4";
             label4.Size = new Size(70, 20);
             label4.TabIndex = 9;
@@ -63,7 +66,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(53, 181);
+            label5.Location = new Point(53, 138);
             label5.Name = "label5";
             label5.Size = new Size(43, 20);
             label5.TabIndex = 10;
@@ -72,7 +75,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(38, 131);
+            label3.Location = new Point(38, 93);
             label3.Name = "label3";
             label3.Size = new Size(58, 20);
             label3.TabIndex = 11;
@@ -81,7 +84,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(30, 76);
+            label2.Location = new Point(30, 58);
             label2.Name = "label2";
             label2.Size = new Size(66, 20);
             label2.TabIndex = 12;
@@ -98,21 +101,21 @@
             // 
             // textBox_Password
             // 
-            textBox_Password.Location = new Point(569, 12);
+            textBox_Password.Location = new Point(422, 16);
             textBox_Password.Name = "textBox_Password";
             textBox_Password.Size = new Size(219, 27);
             textBox_Password.TabIndex = 5;
             // 
             // textBox_Subject
             // 
-            textBox_Subject.Location = new Point(102, 124);
+            textBox_Subject.Location = new Point(102, 90);
             textBox_Subject.Name = "textBox_Subject";
             textBox_Subject.Size = new Size(686, 27);
             textBox_Subject.TabIndex = 6;
             // 
             // textBox_ToEmail
             // 
-            textBox_ToEmail.Location = new Point(102, 69);
+            textBox_ToEmail.Location = new Point(102, 55);
             textBox_ToEmail.Name = "textBox_ToEmail";
             textBox_ToEmail.Size = new Size(219, 27);
             textBox_ToEmail.TabIndex = 7;
@@ -126,17 +129,29 @@
             // 
             // richTextBox_Body
             // 
-            richTextBox_Body.Location = new Point(102, 181);
+            richTextBox_Body.Location = new Point(102, 138);
             richTextBox_Body.Name = "richTextBox_Body";
-            richTextBox_Body.Size = new Size(686, 257);
+            richTextBox_Body.Size = new Size(686, 271);
             richTextBox_Body.TabIndex = 4;
             richTextBox_Body.Text = "";
+            // 
+            // button_attachFile
+            // 
+            button_attachFile.BackgroundImage = (Image)resources.GetObject("button_attachFile.BackgroundImage");
+            button_attachFile.BackgroundImageLayout = ImageLayout.Zoom;
+            button_attachFile.Location = new Point(30, 235);
+            button_attachFile.Name = "button_attachFile";
+            button_attachFile.Size = new Size(42, 39);
+            button_attachFile.TabIndex = 15;
+            button_attachFile.UseVisualStyleBackColor = true;
+            button_attachFile.Click += button_attachFile_Click;
             // 
             // SendGmail
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button_attachFile);
             Controls.Add(button_Send);
             Controls.Add(label4);
             Controls.Add(label5);
@@ -167,5 +182,6 @@
         private TextBox textBox_ToEmail;
         private TextBox textBox_FromEmail;
         private RichTextBox richTextBox_Body;
+        private Button button_attachFile;
     }
 }

@@ -35,6 +35,7 @@
             // 
             // button_Bai1
             // 
+            button_Bai1.Font = new Font("Segoe UI", 16.2F, FontStyle.Bold);
             button_Bai1.Location = new Point(30, 158);
             button_Bai1.Name = "button_Bai1";
             button_Bai1.Size = new Size(191, 133);
@@ -45,6 +46,7 @@
             // 
             // button_Bai3
             // 
+            button_Bai3.Font = new Font("Segoe UI", 16.2F, FontStyle.Bold);
             button_Bai3.Location = new Point(578, 158);
             button_Bai3.Name = "button_Bai3";
             button_Bai3.Size = new Size(191, 133);
@@ -55,6 +57,7 @@
             // 
             // button_Bai2
             // 
+            button_Bai2.Font = new Font("Segoe UI", 16.2F, FontStyle.Bold);
             button_Bai2.Location = new Point(304, 158);
             button_Bai2.Name = "button_Bai2";
             button_Bai2.Size = new Size(191, 133);
