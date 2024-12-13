@@ -1,62 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\",
+  "WorkspaceRootPath": "E:\\download\\lab4_nt106\\NT106_Lab5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab5\\lab5\\reciveemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\reciveemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\lab5\\reciveemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\reciveemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\lab5\\sendgmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\sendgmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\lab5\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab5\\lab5\\sendgmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|E:\\download\\lab4_nt106\\NT106_Lab5\\lab5\\sendgmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\sendgmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab5\\lab5\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\lab5\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab5\\lab5\\sendgmail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|e:\\download\\lab4_nt106\\nt106_lab5\\lab5\\sendgmail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\sendgmail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab5\\lab5\\lab5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\lab5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|e:\\download\\lab4_nt106\\nt106_lab5\\lab5\\receiveemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\receiveemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab5\\lab5\\sendemail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\sendemail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|e:\\download\\lab4_nt106\\nt106_lab5\\lab5\\sendgmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\sendgmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab5\\lab5\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|E:\\download\\lab4_nt106\\NT106_Lab5\\lab5\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab5\\lab5\\reciveemail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\reciveemail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab5\\lab5\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|E:\\download\\lab4_nt106\\NT106_Lab5\\lab5\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD9B2D1C-10A2-47E4-9DC1-3CD93D02B01B}|Lab5\\Lab5.csproj|solutionrelative:lab5\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,67 +37,62 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SendGmail.cs [Design]",
+              "DocumentMoniker": "E:\\download\\lab4_nt106\\NT106_Lab5\\Lab5\\SendGmail.cs",
+              "RelativeDocumentMoniker": "Lab5\\SendGmail.cs",
+              "ToolTip": "E:\\download\\lab4_nt106\\NT106_Lab5\\Lab5\\SendGmail.cs [Design]",
+              "RelativeToolTip": "Lab5\\SendGmail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:32:59.884Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "ReceiveEmail.cs [Design]",
+              "DocumentMoniker": "E:\\download\\lab4_nt106\\NT106_Lab5\\Lab5\\ReceiveEmail.cs",
+              "RelativeDocumentMoniker": "Lab5\\ReceiveEmail.cs",
+              "ToolTip": "E:\\download\\lab4_nt106\\NT106_Lab5\\Lab5\\ReceiveEmail.cs [Design]",
+              "RelativeToolTip": "Lab5\\ReceiveEmail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:57:54.92Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SendGmail.Designer.cs",
+              "DocumentMoniker": "E:\\download\\lab4_nt106\\NT106_Lab5\\Lab5\\SendGmail.Designer.cs",
+              "RelativeDocumentMoniker": "Lab5\\SendGmail.Designer.cs",
+              "ToolTip": "E:\\download\\lab4_nt106\\NT106_Lab5\\Lab5\\SendGmail.Designer.cs",
+              "RelativeToolTip": "Lab5\\SendGmail.Designer.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAIAwwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:39:57.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "SendGmail.cs",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\SendGmail.cs",
+              "DocumentMoniker": "E:\\download\\lab4_nt106\\NT106_Lab5\\Lab5\\SendGmail.cs",
               "RelativeDocumentMoniker": "Lab5\\SendGmail.cs",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\SendGmail.cs",
+              "ToolTip": "E:\\download\\lab4_nt106\\NT106_Lab5\\Lab5\\SendGmail.cs",
               "RelativeToolTip": "Lab5\\SendGmail.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAABgAAAAAAAAAAIAwwB8AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T04:10:47.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SendGmail.cs [Design]",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\SendGmail.cs",
-              "RelativeDocumentMoniker": "Lab5\\SendGmail.cs",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\SendGmail.cs [Design]",
-              "RelativeToolTip": "Lab5\\SendGmail.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T04:09:54.958Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReciveEmail.cs",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\ReciveEmail.cs",
-              "RelativeDocumentMoniker": "Lab5\\ReciveEmail.cs",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\ReciveEmail.cs",
-              "RelativeToolTip": "Lab5\\ReciveEmail.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAUwD0AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T15:47:27.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DashBoard.cs",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\DashBoard.cs",
-              "RelativeDocumentMoniker": "Lab5\\DashBoard.cs",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\DashBoard.cs",
-              "RelativeToolTip": "Lab5\\DashBoard.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAIAxwCIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T15:54:38.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "SendEmail.cs [Design]",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\SendEmail.cs",
+              "DocumentMoniker": "E:\\download\\lab4_nt106\\NT106_Lab5\\Lab5\\SendEmail.cs",
               "RelativeDocumentMoniker": "Lab5\\SendEmail.cs",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\SendEmail.cs [Design]",
+              "ToolTip": "E:\\download\\lab4_nt106\\NT106_Lab5\\Lab5\\SendEmail.cs [Design]",
               "RelativeToolTip": "Lab5\\SendEmail.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T15:12:37.527Z",
@@ -137,114 +100,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReciveEmail.cs [Design]",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\ReciveEmail.cs",
-              "RelativeDocumentMoniker": "Lab5\\ReciveEmail.cs",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\ReciveEmail.cs [Design]",
-              "RelativeToolTip": "Lab5\\ReciveEmail.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T15:13:13.523Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SendGmail.Designer.cs",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\SendGmail.Designer.cs",
-              "RelativeDocumentMoniker": "Lab5\\SendGmail.Designer.cs",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\SendGmail.Designer.cs",
-              "RelativeToolTip": "Lab5\\SendGmail.Designer.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T04:10:56.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ReciveEmail.Designer.cs",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\ReciveEmail.Designer.cs",
-              "RelativeDocumentMoniker": "Lab5\\ReciveEmail.Designer.cs",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\ReciveEmail.Designer.cs",
-              "RelativeToolTip": "Lab5\\ReciveEmail.Designer.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAmwHsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T15:48:48.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SendEmail.Designer.cs",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\SendEmail.Designer.cs",
-              "RelativeDocumentMoniker": "Lab5\\SendEmail.Designer.cs",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\SendEmail.Designer.cs",
-              "RelativeToolTip": "Lab5\\SendEmail.Designer.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAmwIQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T15:20:14.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SendEmail.cs",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\SendEmail.cs",
-              "RelativeDocumentMoniker": "Lab5\\SendEmail.cs",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\SendEmail.cs",
-              "RelativeToolTip": "Lab5\\SendEmail.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T15:17:07.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Lab5.csproj",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\Lab5.csproj",
-              "RelativeDocumentMoniker": "Lab5\\Lab5.csproj",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\Lab5.csproj",
-              "RelativeToolTip": "Lab5\\Lab5.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-11T16:13:54.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DashBoard.Designer.cs",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\DashBoard.Designer.cs",
-              "RelativeDocumentMoniker": "Lab5\\DashBoard.Designer.cs",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\DashBoard.Designer.cs",
-              "RelativeToolTip": "Lab5\\DashBoard.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T15:54:59.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\Program.cs",
-              "RelativeDocumentMoniker": "Lab5\\Program.cs",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\Program.cs",
-              "RelativeToolTip": "Lab5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T15:54:30.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "DashBoard.cs [Design]",
-              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\DashBoard.cs",
+              "DocumentMoniker": "E:\\download\\lab4_nt106\\NT106_Lab5\\Lab5\\DashBoard.cs",
               "RelativeDocumentMoniker": "Lab5\\DashBoard.cs",
-              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab5\\Lab5\\DashBoard.cs [Design]",
+              "ToolTip": "E:\\download\\lab4_nt106\\NT106_Lab5\\Lab5\\DashBoard.cs [Design]",
               "RelativeToolTip": "Lab5\\DashBoard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T15:56:24.869Z"
+              "WhenOpened": "2024-12-11T15:56:24.869Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

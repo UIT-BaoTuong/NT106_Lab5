@@ -10,7 +10,7 @@
     <Compile Update="SendEmail.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="ReciveEmail.cs">
+    <Compile Update="ReceiveEmail.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
